@@ -22,20 +22,20 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.Tech in Computer Science & Engineering at **University of Petroleum and Energy Studies, Dehradun**  
-- 💼 Former **Backend and Database Engineer** at **Aaron Softech Private Limited**
-- 🧠 I love building **scalable backend systems**, **microservices**, and **AI-powered products**
-- 🌱 Currently exploring **LLMs, NLP, Computer Vision, and distributed intelligent systems**
-- 🏆 **Top 10 finish among 300+ teams** at a national-level hackathon
-- ⚡ I enjoy turning ideas into real, production-ready products
+-  B.Tech in Computer Science & Engineering at **University of Petroleum and Energy Studies, Dehradun**  
+-  Former **Backend and Database Engineer** at **Aaron Softech Private Limited**
+-  I love building **scalable backend systems**, **microservices**, and **AI-powered products**
+-  Currently exploring **LLMs, NLP, Computer Vision, and distributed intelligent systems**
+-  **Top 10 finish among 300+ teams** at a national-level hackathon
+-  I enjoy turning ideas into real, production-ready products
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+###  Languages
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML
+###  AI / ML
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
 </p>
 
-### 🧰 Tools
+###  Tools
 <p>
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -87,7 +87,7 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Backend and Database Engineer — Aaron Softech Private Limited
 - Designed a **microservices architecture** with Node.js and Express.js, improving scalability by **40%**
@@ -97,21 +97,21 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🌾 Multi-Lingual Decision Support System for Farmers
+###  Multi-Lingual Decision Support System for Farmers
 > **FastAPI • React Native • PyTorch • Scikit-learn • PostgreSQL**
 - Government-funded multilingual agricultural advisory platform
 - Built ViT-based leaf disease classification and crop yield prediction pipeline
 - Integrated Groq LLM APIs + Open-Meteo APIs for a context-aware multilingual assistant
 
-### 🧠 AgentReplay: Observability Platform for AI Agents
+###  AgentReplay: Observability Platform for AI Agents
 > **Python • Vite • WebSockets • Groq LLM API • Knowledge Graph**
 - Built a time-travel debugging platform for agentic AI workflows
 - Added step-by-step replay, branching execution, and live state streaming
 - Designed logic diffing to compare divergent LLM reasoning pathways
 
-### 💧 Water Quality Analysis Pipeline
+###  Water Quality Analysis Pipeline
 > **Python • Pandas • Scikit-learn**
 - Processed a **100k-entry dataset**
 - Implemented **5 ML algorithms** with **89% accuracy**
@@ -140,7 +140,7 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Scalable backend architecture
 - AI/ML systems for real-world impact
